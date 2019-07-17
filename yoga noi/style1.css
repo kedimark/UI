@@ -1,0 +1,40 @@
+footer, header {
+    text-align: center;
+    padding: 8.1px;
+    background-color: hotpink;
+}
+body{
+    
+    background-color: forestgreen;
+}
+.container{
+    border: 7px; turquoise;
+}
+nav{
+    
+    clear: left;
+    float: left;
+    max-width: 600px;
+    height: 28.1em;
+    width: 280px;
+    background-color: red;
+
+}
+#center{
+    text-align: center;
+    width: 28%;
+    padding: 1em;
+    padding-left: 2em;
+    float: left;
+}
+#right{
+
+    text-align: right;
+    max-width: 600px;
+}
+footer{
+    padding: 3em;
+    margin-top: 300px;
+    font-family:italic;font-size:
+    25px;
+}
